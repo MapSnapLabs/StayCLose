@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799150113266",
+    "project_id": "stayclose-2c73f",
+    "storage_bucket": "stayclose-2c73f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799150113266:android:02d3b3cad74bd406756b6b",
+        "android_client_info": {
+          "package_name": "com.mapsnaplabs.stayclose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZXpZORdxM5iw5iKpZ01HHa-KLRgBeyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
